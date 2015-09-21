@@ -4,7 +4,8 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "watch": "babel src/main.js -out-file dist/main.js"
+    "server": "webpack-dev-server --progress --colors",
+    "build": "webpack"
   },
   "author": "",
   "dependencies": {
