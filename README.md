@@ -13,11 +13,10 @@ react webpack config bc never doing this again
 
 `npm run server`
 
-Will start a live-reloading local server at http://localhost:8080/webpack-dev-server/. If you happen to forget this URL, you can run `npm run open` to open it in your browser.
+Will start a live-reloading local server at http://localhost:8080/
 
 ## To build
 
 `npm build`
 
 Will build output to bundle.js
-
